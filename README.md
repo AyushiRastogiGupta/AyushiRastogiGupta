@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyushiRastogiGupta
 - 👀 I’m interested in refining my skills as a Data Analyst. I would love to find a mentor to help me get better.
-- 🌱 I’m currently learning R programming and pursuing Google Data Analytics Professional Certificate. 
+- 🌱 Recendtly completed Google Data Analytics Professional Certificate and looking for a job.
 - 💞️ I’m looking to collaborate on any projects or apprenticeship available to create and include in my portfolio. 
 - 📫 How to reach me .. drop a mail at arastogi1994@gmail.com
 
